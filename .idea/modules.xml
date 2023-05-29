@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../APS106-analytics/.idea/APS106-analytics.iml" filepath="$PROJECT_DIR$/../APS106-analytics/.idea/APS106-analytics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/APS106-summer-2023-material.iml" filepath="$PROJECT_DIR$/.idea/APS106-summer-2023-material.iml" />
     </modules>
   </component>
