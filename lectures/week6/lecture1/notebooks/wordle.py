@@ -177,4 +177,4 @@ def play_wordle():
     else:
         print("Better luck next time... the answer was: " + solution)
 
-#play_wordle()
+play_wordle()
