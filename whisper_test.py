@@ -4,13 +4,15 @@ import openai
 
 print('hello')
 
-openai.api_key = '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'
+openai.api_key = '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'
 
-audio_file= open("/Users/benkinsella/Downloads/10_4231_FT0S-1715/bundle/PRESTO-R/List_A/Male/CARL LIVES in a LIVELY HOME.wav", "rb")
+audio_file= open("/Users/benkinsella/Documents/Work/University of Toronto/2022-2023/Semester 2/ALC/Interview Files/trimmed_raspberry_test.mp3", "rb")
 transcript = openai.Audio.transcribe("whisper-1", audio_file)
 
 print(transcript)
 
+
+'''
 # HOW TO CHOP UP CLIPS
 
 from pydub import AudioSegment
@@ -25,6 +27,10 @@ first_10_minutes = song[:ten_minutes]
 first_10_minutes.export("good_morning_10.mp3", format="mp3")
 
 '''
+
+'''
+
+
 #USES OLD WHISPER PACKAGE
 
 import whisper
