@@ -4,7 +4,7 @@ import openai
 
 print('hello')
 
-openai.api_key = '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'
+openai.api_key = ''
 
 audio_file= open("/Users/benkinsella/Documents/Work/University of Toronto/2022-2023/Semester 2/ALC/Interview Files/trimmed_raspberry_test.mp3", "rb")
 transcript = openai.Audio.transcribe("whisper-1", audio_file)
