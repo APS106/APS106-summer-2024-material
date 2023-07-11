@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../APS106-summer-2022-material" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../FYFSA-Coding" vcs="Git" />
   </component>
 </project>
