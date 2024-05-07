@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/APS106-summer-2023-material.iml" filepath="$PROJECT_DIR$/.idea/APS106-summer-2023-material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../APS106-winter-2024-kinsella-goodfellow/.idea/APS106-winter-2024-kinsella-goodfellow.iml" filepath="$PROJECT_DIR$/../APS106-winter-2024-kinsella-goodfellow/.idea/APS106-winter-2024-kinsella-goodfellow.iml" />
       <module fileurl="file://$PROJECT_DIR$/../FYFSA-Coding/.idea/FYFSA-Coding.iml" filepath="$PROJECT_DIR$/../FYFSA-Coding/.idea/FYFSA-Coding.iml" />
     </modules>
   </component>
