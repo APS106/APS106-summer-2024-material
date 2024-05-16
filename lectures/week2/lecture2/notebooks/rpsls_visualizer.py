@@ -4,7 +4,7 @@ import matplotlib.image as mpimg
 
 def visualizer(player1, player2, winner):
     """
-    (str, str, int) -> None
+    (str, str, str) -> None
     This function visualizes the the choices from player 1 and 2 and displays the winner.
 
     Example:
