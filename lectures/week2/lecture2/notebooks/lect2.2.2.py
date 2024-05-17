@@ -20,12 +20,12 @@ def is_at_wall(turtle):
     screen_width = screen.window_width() / 2
     screen_height = screen.window_height() / 2
 
-    '''
+
     if abs(x) > screen.window_width()/2 - 150:
-        time.sleep(0.2)
+        time.sleep(1)
     if abs(x) > screen.window_width() / 2 - 50:
-        time.sleep(0.5)
-    '''
+        time.sleep(2)
+
 
     if abs(x) > screen_width - 20 or abs(y) > screen_height - 20:
         return True
