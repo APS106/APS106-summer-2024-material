@@ -69,7 +69,7 @@ turtle.exitonclick()
 '''
 
 
-'''
+
 lebron = turtle.Turtle()
 lebron.color('red')
 lebron.speed(10)
@@ -87,4 +87,3 @@ print('Outside:', abs(lebron.pos()))
 
 lebron.end_fill()
 turtle.exitonclick()
-'''
