@@ -78,7 +78,7 @@ back_to_beginning = False
 
 while not back_to_beginning:
     lebron.forward(200)
-    lebron.left(170)
+    lebron.left(300)
     back_to_beginning = (abs(lebron.pos()) < 1)
     print(lebron.pos())
     print('Final:', abs(lebron.pos()))
